@@ -6,10 +6,10 @@
 
 <h3>On Browser Console</h3>
 <div align="middle">
-<img src="ProjectImages/img1.png" width=50%> </img>
+<img src="ProjectImages/Img2.png" width=50%> </img>
 </div>
 
 <h3>VS Debug View From using Web2View @https://github.com/MicrosoftEdge/WebView2Browser</h3>
 <div align="middle">
-<img src="ProjectImages/Img2.png" width=50%> </img>
+<img src="ProjectImages/img1.png" width=50%> </img>
 </div>
